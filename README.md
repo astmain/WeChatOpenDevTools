@@ -34,23 +34,23 @@ node WeChatAppEx.exe.js 8447 x64
 
 
 
-github仓库        https://github.com/x0tools/WeChatOpenDevTools
+### github仓库
+https://github.com/x0tools/WeChatOpenDevTools
 
 
 
-<!-- 笔记错误 -->
+### 笔记错误
 node WeChatWin.dll.js 3.9.12.17 x64 "C:/WeChat/[3.9.12.17]" 
 node WeChatWin.dll.js 3.97.29 x64 "E:/softall/wechat/[3.9.7.29]" 
 node WeChatAppEx.exe.js 8447 x64
 
 
 
-<!-- 笔记成功111 -->
+### 笔记成功111
 node WeChatWin.dll.js  "E:/softall/wechat/[3.9.7.29]" 
 
 
-<!-- 笔记成功222 -->
-
+### 笔记成功222
 node WeChatWin.dll.js C:\WeChat\WeChat.exe
 
 
